@@ -10,6 +10,7 @@ url 'https://github.com/UgDevOfc/ug-menu'
 ui_page 'html/index.html'
 
 client_script 'client/main.lua'
+server_script 'server/version.lua'
 
 files { 
     'html/index.html', 
